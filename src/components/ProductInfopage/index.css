@@ -1,0 +1,417 @@
+@media screen and (max-width:767px){
+    .product-display{
+    width: 330px;
+    display: flex;
+    align-items: center;
+}
+
+.product{
+    width: 333px;
+height: 333px;
+opacity: 1;
+}
+
+.product-info{
+    display: none;
+}
+
+.pay{
+    width: 333px;
+    height: 333px;
+}
+
+div{
+    width: 333px;
+}
+
+.quan-container{
+    display: flex;
+}
+
+.q-button{
+        width: 195px;
+height: 47px;
+angle: 0 deg;
+opacity: 1;
+top: 25.5px;
+border-radius: 50px;
+border-width: 1px;
+background: #F1B434;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+    }
+
+    .q-btn{
+        color: #fff;
+        background-color: transparent;
+        border: none;
+    }
+
+    .quantity{
+        color: #fff;
+    }
+
+    .quan-container{
+        display: flex;
+justify-content: space-between;
+align-items: center;
+
+    }
+
+    .cart-btn{
+        width: 400px;
+height: 47px;
+angle: 0 deg;
+opacity: 1;
+top: 1233.84px;
+left: 250px;
+border-radius: 41px;
+border-width: 1px;
+background: #313131;
+color: #fff;
+
+    }
+
+    .info{
+        width: 333px;
+    }
+*{
+    margin-left: 10px;
+}
+}
+
+
+@media screen and (min-width:768px){
+    .slider-container{
+        display: block;
+        background-color: transparent;
+    }
+
+    .desk-home{
+        width: 1460px;
+        height: 2276px;
+        background-color: #fbf9f6;
+    }
+
+    .product-display{
+        width: 585px;
+        height: 617px;
+        opacity: 1;
+        display: flex;
+        align-items: center;
+    }
+
+    .desk-main{
+        width: 1440px;
+        height: 2149px;
+        opacity: 1;
+        gap: 10px;
+        margin-left: 40px;
+        display: flex;
+    }
+
+    .product-info{
+        width: 582px;
+    }
+
+    .p-img{
+        width: 287.5px;
+        height: 200px;
+        opacity: 1;
+    }
+
+    .p-img3{
+        width: 577px;
+        height: 300px;
+        top: 210px;
+        opacity: 1;
+    }
+
+    .desk-heading{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #313131;
+    }
+
+    .desk-sub{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 56.13px;
+line-height: 52.8px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #313131;
+    }
+
+    .desk-sub-heading{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 56.13px;
+line-height: 52.8px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #313131;
+    }
+
+    .desk-head{
+        display: flex;
+        justify-content: space-between;
+        width: 650px;
+    }
+
+    .rating{
+        display: flex;
+        justify-content: center;
+        width: 211.8800048828125px;
+height: 21px;
+align-items: center;
+    }
+
+    .para{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 23.94px;
+letter-spacing: 0%;
+vertical-align: middle;
+
+    }
+
+    .r-para{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 12px;
+line-height: 23.94px;
+letter-spacing: 0%;
+vertical-align: middle;
+
+    }
+
+    .desc-para{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #313131;
+    }
+
+    .certificata-container{
+        display: flex;
+        gap: 20px;
+    }
+
+    .select-container{
+        width: 650px;
+height: 351.239990234375px;
+opacity: 1;
+margin-top: 40px;
+display: flex;
+flex-wrap: wrap;
+
+    }
+
+    .s-para{
+font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: 1.5px;
+vertical-align: middle;
+text-transform: uppercase;
+
+    }
+
+    .v-para{
+font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+
+line-height: 21px;
+letter-spacing: 1.5px;
+vertical-align: middle;
+
+    }
+
+    .payment-container{
+        width: 650px;
+height: 144.1999969482422px;
+opacity: 1;
+top: 1019.64px;
+border-radius: 25px;
+background-color: #f2f2f2;
+    }
+
+    .btn-container{
+        display: flex;
+justify-content: center;
+align-items: center;
+
+    }
+
+    .container{
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .p-btn{
+        width: 287.5px;
+height: 64.80000305175781px;
+opacity: 1;
+top: 28px;
+left: 30px;
+border-radius: 50px;
+border-width: 1px;
+background-color: #F1B434;
+color: #fff;
+font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 17.6px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+
+    }
+
+    .s-btn{
+        width: 287.5px;
+height: 64.80000305175781px;
+opacity: 1;
+top: 28px;
+left: 30px;
+border-radius: 50px;
+border-width: 1px;
+border: #F1B434 1px solid;
+background-color: #fff;
+font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 17.6px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+margin-left: 30px;
+    }
+
+    .q-button{
+        width: 195px;
+height: 47px;
+angle: 0 deg;
+opacity: 1;
+top: 25.5px;
+border-radius: 50px;
+border-width: 1px;
+background: #F1B434;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+    }
+
+    .q-btn{
+        color: #fff;
+        background-color: transparent;
+        border: none;
+    }
+
+    .quantity{
+        color: #fff;
+    }
+
+    .quan-container{
+        display: flex;
+justify-content: space-between;
+align-items: center;
+
+    }
+
+    .cart-btn{
+        width: 400px;
+height: 47px;
+angle: 0 deg;
+opacity: 1;
+top: 1233.84px;
+left: 250px;
+border-radius: 41px;
+border-width: 1px;
+background: #313131;
+color: #fff;
+
+    }
+
+    .pay{
+        margin-top: 20px;
+    }
+
+    .number{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 23.94px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #F39C12;
+
+    }
+
+    .end-para{
+        font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+leading-trim: NONE;
+line-height: 18.62px;
+letter-spacing: 0%;
+vertical-align: middle;
+
+    }
+
+    .delivery-details{
+        display: flex;
+        align-items: center;
+    }
+
+    .estimated{
+        width: 170.75px;
+height: 34.61000061035156px;
+opacity: 1;
+top: 1686.41px;
+margin-left: 32px;
+font-family: Segoe UI;
+font-weight: 400;
+font-style: Regular;
+font-size: 13.89px;
+line-height: 18.62px;
+letter-spacing: 0%;
+vertical-align: middle;
+    }
+
+    .second{
+        margin-left: 30px;
+    }
+}
+
+
